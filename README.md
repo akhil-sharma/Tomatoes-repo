@@ -88,8 +88,24 @@ Perform the following tasks to check your understanding:
 `git push`
 5. Go back to [GitHub](https://www.github.com) to check if your changes were push to the remote repository.
 
-[NAME_IT]: ./assets/name_it.jpeg "Name your repository."
+## That was INTENSE!
+We have now setup a remote repository. How might your team download this code?
+Let's emulate this!
+1. Delete the local copy of the repository. Delete the entire folder.
+2. Goto the [GitHub](https://www.github.com) repository and copy the link to the repository. </br>
+![Get the link for the repoitory][LINK]
+3. <b>Clone</b> the repository using the command: </br>
+`git clone -link to the repo-`</br>
+For example: </br>
+`git clone https://github.com/akhil-sharma/Tomatoes-repo.git`
 
-[NEW_BUTTON]: ./assets/new_button.jpeg "Create a new Repository."
+4. You have now downloaded the repository! Cool!
+5. Try cloning a class project using the `clone` command!
 
-[PUSH_CODE]: ./assets/push_existing_repo.jpeg "Push you code to a remote repository"
+[NAME_IT]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/name_it.jpeg "Name your repository."
+
+[NEW_BUTTON]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/new_button.jpeg "Create a new Repository."
+
+[PUSH_CODE]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/push_existing_repo.jpeg "Push you code to a remote repository"
+
+[LINK]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/link.JPG "Copy the link to the repository."
