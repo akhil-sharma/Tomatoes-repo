@@ -64,17 +64,11 @@ Perform the following tasks to check your understanding:
 
 ### Great job! Now that we have commited our changes let's create a remote repository on [GitHub](https://github.com).
 1. Open GitHub, login and press the `New` button.
-</br>
 ![New Repository][NEW_BUTTON]
-</br>
 2. Give you repository a name and press the `Create Repository` button.
-</br>
 ![Name the repository][NAME_IT]
-</br>
 3. Follow the instructions under the `...or push an existing repository from the command line` section.
-</br>
 ![New Repository][PUSH_CODE]
-</br>
 
 Done? Refresh the GitHub repository page to check if your code was pushed to the remote repository.</br>
 We can now collaborate with our team members!!
@@ -109,3 +103,11 @@ For example: </br>
 [PUSH_CODE]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/push_existing_repo.jpeg "Push you code to a remote repository"
 
 [LINK]: https://github.com/akhil-sharma/Tomatoes-repo/blob/main/assets/link.JPG "Copy the link to the repository."
+
+## Branching
+I am still working on add instructions for branching but here's an excellent resource.</br>
+[Branching in git](https://www.atlassian.com/git/tutorials/using-branches)
+</br>
+It will be an excellent exercise to run these branch commands on the repository that you just created.
+
+In the class project avoid merging with or pushing to the main/master branch. That will be done using a pull request which we will cover in the near future.
